@@ -1,5 +1,7 @@
 # TOML
 
+Version **0.2.4** targets the Nanobug internal-test build of 2026-11-02 through the public host SDK. Installation IDs and permissions are preserved. Windows native helpers included in this package use a statically linked runtime.
+
 **English** · [简体中文](https://github.com/Nanobug-Editor/TOML/blob/main/README.zh-CN.md)
 
 TOML recognition, highlighting and file icons. The stable installation ID is `toml`; the first independent release is `0.2.3`.

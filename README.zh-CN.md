@@ -1,5 +1,7 @@
 # TOML
 
+版本 **0.2.4** 面向 2026-11-02 的 Nanobug 内部测试版，使用公开宿主 SDK 构建。保留安装 ID 和权限；包内附带的 Windows 原生辅助程序使用静态运行库。
+
 [English](https://github.com/Nanobug-Editor/TOML/blob/main/README.md) · **简体中文**
 
 TOML 识别、高亮和文件图标。 插件 ID 为 `toml`，首次独立发布版本为 `0.2.3`；原有安装身份、设置和私有数据保持连续。
